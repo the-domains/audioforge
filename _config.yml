@@ -1,5 +1,8 @@
-title: Audio apps for iOS and Mac OS X
-purpose: []
+name: Audioforge
+favicon: null
+layout_spectrum: 0.6838111
+typography_spectrum: 0.648398
+title: Audioforge Labs Inc.
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.4354839
-  brandStrength: 0
-  lightness: 0.6129032
   brandColors:
     - '#00ccff'
     - '#000000'
     - '#fbffff'
     - '#005d74'
     - '#818181'
+  brandStrength: 0
+  lightness: 0.6129032
+  saturation: 0.4354839
   rhythmicContrast: 0.3351254
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Audioforge
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.648398
-layout_spectrum: 0.6838111
+purpose: []
