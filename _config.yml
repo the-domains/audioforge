@@ -14,8 +14,8 @@ collections:
       path: '/:title/'
 color:
   saturation: 0.9026064765639603
-  brandStrength: 0.202509
   lightness: 0.5991864681709558
+  brandStrength: 0
   brandColors:
     - '#00ccff'
     - '#000000'
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Audioforge
 favicon: null
+name: Audioforge
 opengraph:
   image: null
   type: null
