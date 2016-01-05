@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Audioforge Labs Inc.]]></title>
         <description><![CDATA[Audioforge Labs Inc.]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/audioforge/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jan 2016 15:59:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 05 Jan 2016 16:01:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/audioforge/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[CloudEQ]]></title>
+            <description><![CDATA[<article><h1>CloudEQ</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dfb7ae9d0b8197b2b75a32aefc053846d35ebf21.jpg"></article>]]></description>
+            <link>https://thegrid.ai/audioforge/cloudeq/index.html</link>
+            <guid isPermaLink="false">953720c9-e795-4028-847a-21798adc487f</guid>
+            <pubDate>Tue, 05 Jan 2016 16:00:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Equalizer]]></title>
-            <description><![CDATA[<article><h1>Equalizer</h1><p>7 band parametric equalizer</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fc47abba26255dce164e2faab4cba8b25358630c.jpg"></article>]]></description>
-            <link>undefinedequalizer/index.html</link>
+            <description><![CDATA[<article><h1>Equalizer</h1><p>7 band parametric equalizer</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/beccad7d9f222c792bcf298dc0cf612174c3d094.jpg"></article>]]></description>
+            <link>https://thegrid.ai/audioforge/equalizer/index.html</link>
             <guid isPermaLink="false">c4cb60d4-df1a-46b0-b166-c1351bae9bb3</guid>
             <pubDate>Tue, 05 Jan 2016 15:59:22 GMT</pubDate>
         </item>
