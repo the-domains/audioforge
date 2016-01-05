@@ -4,11 +4,18 @@
         <description><![CDATA[Audioforge Labs Inc.]]></description>
         <link>https://thegrid.ai/audioforge/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jan 2016 16:01:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jan 2016 17:20:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/audioforge/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[EASe]]></title>
+            <description><![CDATA[<article><h1>EASe</h1><p>The EASe app is our latest and most sophisticated therapeutic tool. Unlike fixed systems like CDs and players bundled with premodulated music, the EASe app actually performs the EQ modulation in real time inside the app. This control makes the stimulus viarable and precise, enabling therapists to start a client on a very gentle preset and then gradually increase the intensity until the client is experiencing a level of stimulation exceeding that of any disc based system. This means that training a client to habituate to noise is easier, quicker and more gentle.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce09a557e157af98da7303583d6376e181d47af7.jpg"></article>]]></description>
+            <link>https://thegrid.ai/audioforge/ease/index.html</link>
+            <guid isPermaLink="false">36a1eee4-25c3-4282-aa9c-eb8fd4f23dfa</guid>
+            <pubDate>Tue, 05 Jan 2016 17:20:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[CloudEQ]]></title>
-            <description><![CDATA[<article><h1>CloudEQ</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dfb7ae9d0b8197b2b75a32aefc053846d35ebf21.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>CloudEQ</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/239b02421b692633b1c4b602b3a4e238c8208d45.jpg"></article>]]></description>
             <link>https://thegrid.ai/audioforge/cloudeq/index.html</link>
             <guid isPermaLink="false">953720c9-e795-4028-847a-21798adc487f</guid>
             <pubDate>Tue, 05 Jan 2016 16:00:44 GMT</pubDate>
