@@ -28,7 +28,8 @@ navigation:
   - name: Blog
     url: 'http://blog.audiogorge.org'
     type: external
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d12b66ab-0221-44db-97ee-43cd1dfdf33f.png
 collections:
   - index:
       path: /
